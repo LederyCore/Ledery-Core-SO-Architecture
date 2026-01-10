@@ -1,0 +1,11 @@
+{  
+  "name": "com.lederycore.soarchitecture",  
+  "version": "0.1.0",  
+  "displayName": "SO Architecture",  
+  "description": "A Unity package that provides a Scriptable Object based architecture for game development.",  
+  "unity": "6000.3",  
+  "author": {  
+    "name": "LederyCore",  
+    "email": "lesb060500@gmail.com"
+  }  
+}  
